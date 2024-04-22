@@ -1,5 +1,3 @@
-<div align="center">
-
 <p>
  <a href="#-sobre-o-projeto">Sobre</a>
 </p>
