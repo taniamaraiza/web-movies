@@ -1,5 +1,3 @@
-<div align="center">
-
 <p>
  <a href="#-sobre-o-projeto">Sobre</a>
 </p>
@@ -96,6 +94,15 @@ $ npm start
 ```
 
 <p>✅ Pronto, o app estará rodando no host: (http://localhost:3000/)</p>
+
+---
+
+## :cloud: Disponivel na web
+
+O Web Movies também está disponivel na web, para encontra-lo basta acessar o seguinte
+endereço na web:
+
+[Site Web Movies](https://web-movies-app.netlify.app/)
 
 ---
 
