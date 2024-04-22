@@ -97,6 +97,15 @@ $ npm start
 
 ---
 
+## :cloud: Disponivel na web
+
+O Web Movies também está disponivel na web, para encontra-lo basta acessar o seguinte
+endereço na web:
+
+[Site Web Movies](https://web-movies-app.netlify.app/)
+
+---
+
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
